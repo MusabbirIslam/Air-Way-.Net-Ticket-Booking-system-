@@ -1,0 +1,17 @@
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Core\bin\Rafi\Airway.Core.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Core\bin\Rafi\Airway.Data.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Core\bin\Rafi\Airway.Entity.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Core\obj\Rafi\Airway.Core.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Core\obj\Rafi\Airway.Core.csprojResolveAssemblyReference.cache
+D:\Backup\2\AIRWAYBUNIFU\Airway.Core\bin\Rafi\Airway.Core.dll
+D:\Backup\2\AIRWAYBUNIFU\Airway.Core\bin\Rafi\Airway.Data.dll
+D:\Backup\2\AIRWAYBUNIFU\Airway.Core\bin\Rafi\Airway.Entity.dll
+D:\Backup\2\AIRWAYBUNIFU\Airway.Core\obj\Rafi\Airway.Core.csprojResolveAssemblyReference.cache
+D:\Backup\2\AIRWAYBUNIFU\Airway.Core\obj\Rafi\Airway.Core.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Core\bin\Rafi\BarcodeLib.dll
+E:\study\AIRWAYBUNIFU\Airway.Core\bin\Rafi\Airway.Core.dll
+E:\study\AIRWAYBUNIFU\Airway.Core\bin\Rafi\Airway.Data.dll
+E:\study\AIRWAYBUNIFU\Airway.Core\bin\Rafi\Airway.Entity.dll
+E:\study\AIRWAYBUNIFU\Airway.Core\bin\Rafi\BarcodeLib.dll
+E:\study\AIRWAYBUNIFU\Airway.Core\obj\Rafi\Airway.Core.csprojResolveAssemblyReference.cache
+E:\study\AIRWAYBUNIFU\Airway.Core\obj\Rafi\Airway.Core.dll

@@ -1,0 +1,6 @@
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Data\bin\Debug\Airway.Data.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Data\bin\Debug\Airway.Data.pdb
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Data\bin\Debug\Airway.Entity.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Data\obj\Debug\Airway.Data.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Data\obj\Debug\Airway.Data.pdb
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Data\bin\Debug\BarcodeLib.dll

@@ -1,0 +1,4 @@
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Entity\bin\Debug\Airway.Entity.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Entity\bin\Debug\Airway.Entity.pdb
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Entity\obj\Debug\Airway.Entity.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Entity\obj\Debug\Airway.Entity.pdb

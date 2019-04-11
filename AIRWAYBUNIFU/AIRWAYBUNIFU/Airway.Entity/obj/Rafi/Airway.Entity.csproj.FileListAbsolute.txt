@@ -1,0 +1,6 @@
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Entity\bin\Rafi\Airway.Entity.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Entity\obj\Rafi\Airway.Entity.dll
+E:\study\AIRWAYBUNIFU\Airway.Entity\bin\Rafi\Airway.Entity.dll
+E:\study\AIRWAYBUNIFU\Airway.Entity\obj\Rafi\Airway.Entity.csprojResolveAssemblyReference.cache
+E:\study\AIRWAYBUNIFU\Airway.Entity\obj\Rafi\Airway.Entity.dll
+E:\study\AIRWAYBUNIFU\AIRWAYBUNIFU\Airway.Entity\obj\Rafi\Airway.Entity.csprojResolveAssemblyReference.cache
